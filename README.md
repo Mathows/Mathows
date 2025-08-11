@@ -2,10 +2,6 @@
 Eu sou o Matheus Alexandre! 👋🏻  <br>
 Atualmente sou desenvolvedor júnior de C# <br> 
 Tendo estudado continuamente .NET | SQL Server | Blazor | Razor | 
-<br><br>
-Meu LinkedIn 👇🏼
-<br>
-[![LinkendIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alexandre-marques-661b70185/)
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
  
@@ -42,3 +38,9 @@ Meu LinkedIn 👇🏼
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matuzen&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+<br><br>
+Meu LinkedIn 👇🏼
+<br>
+[![LinkendIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alexandre-marques-661b70185/)
+

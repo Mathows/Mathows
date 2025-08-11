@@ -7,6 +7,8 @@
   Tendo estudado continuamente .NET | SQL Server | Blazor | Razor |
 </div>
 
+<br>
+
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
  
  

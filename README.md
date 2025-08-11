@@ -1,7 +1,11 @@
-### Hello World! 
-Eu sou o Matheus Alexandre! 👋🏻  <br>
-Atualmente sou desenvolvedor júnior de C# <br> 
-Tendo estudado continuamente .NET | SQL Server | Blazor | Razor | 
+<div align="center">
+  ### Hello World!
+  Eu sou o Matheus Alexandre! 👋🏻
+  <br>
+  Atualmente sou desenvolvedor júnior de C#
+  <br>
+  Tendo estudado continuamente .NET | SQL Server | Blazor | Razor |
+</div>
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
  
